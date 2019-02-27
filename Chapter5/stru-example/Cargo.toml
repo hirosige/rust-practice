@@ -1,0 +1,6 @@
+[package]
+name = "stru-example"
+version = "0.1.0"
+authors = ["Hiroshige Negishi <hirosige1@gmail.com>"]
+
+[dependencies]
